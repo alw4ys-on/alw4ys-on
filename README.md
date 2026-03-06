@@ -1,4 +1,9 @@
-## Hi there 👋
+## 🤖 𝙷𝚎𝚕𝚕𝚘, 𝚏𝚛𝚒𝚎𝚗𝚍
+`type undefined`
+
+# Projetos em Foco:
+[Chessclock](https://github.com/alw4ys-on/chessclock) |
+[Dev Duplo](https://github.com/alw4ys-on/dev-duplo)
 
 <!--
 **alw4ys-on/alw4ys-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
